@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @DefinetelyNotRiddham
 - 👀 I’m interested in Coding in Java and Science
 - 🌱 I’m currently learning Java and GUI's
-- 📫 How to reach me, is a secret
-- 😄 Pronouns: he/him (no changes)
+- 📫 How to reach me, why do you wanna?
+- 😄 Pronouns: ni/ger
 - ⚡ Fun fact: find out for yourself
 
 <!---
